@@ -12,7 +12,7 @@ A collection of accessible hacks for Blooket.
 
 ### How to use:
 
-Step 1: Go to dashboard.blooket.com and login to your account.
+Step 1: Go to https://dashboard.blooket.com and login to your account.
 
 Step 2: Copy any code
 
