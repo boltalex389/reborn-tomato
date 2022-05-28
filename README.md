@@ -4,9 +4,9 @@
 > 
 > ⚠️ USE AT YOUR OWN RISK - I DO NOT TAKE RESPONSIBILITY FOR ANY PERM BANNED AND SUSPENDED ACCOUNTS ⚠️
 
-# codename-tomato-reverb [![License:%20GPL v3.0](https://img.shields.io/badge/License-GPL-green.svg)](https://choosealicense.com/licenses/gpl-3.0/l)
+# reborn-tomato [![License:%20GPL v3.0](https://img.shields.io/badge/License-GPL-green.svg)](https://choosealicense.com/licenses/gpl-3.0/l)
 
-A collection of accessible hacks for Blooket. 
+A collection of accessible hacks for Blooket. Formerly known as codename-tomato-reverb.
 
 ### How to use:
 
