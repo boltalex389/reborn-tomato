@@ -4,7 +4,7 @@
 > 
 > ⚠️ USE AT YOUR OWN RISK - I DO NOT TAKE RESPONSIBILITY FOR ANY PERM BANNED AND SUSPENDED ACCOUNTS ⚠️
 
-# codename-tomato-reverb
+# codename-tomato-reverb [![License:%20Apache](https://img.shields.io/badge/License-Apache-blue.svg)](https://choosealicense.com/licenses/apache-2.0/l)
 
 A collection of accessible hacks for Blooket. 
 
